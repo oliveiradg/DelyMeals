@@ -8,32 +8,32 @@ import 'package:flutter/material.dart';
  const DUMMY_CATEGORIES = const [
   Category(
     id: 'c1',
-    title: 'Italian',
+    title: 'Italiana',
     color: Colors.purple,
   ),
   Category(
     id: 'c2',
-    title: 'Quick & Easy',
+    title: 'Rápida e Fácil',
     color: Colors.red,
   ),
   Category(
     id: 'c3',
-    title: 'Hamburgers',
+    title: 'Hambúrgers',
     color: Colors.orange,
   ),
   Category(
     id: 'c4',
-    title: 'German',
+    title: 'Alemã',
     color: Colors.amber,
   ),
   Category(
     id: 'c5',
-    title: 'Light & Lovely',
+    title: 'Light ',
     color: Colors.blue,
   ),
   Category(
     id: 'c6',
-    title: 'Exotic',
+    title: 'Exotica',
     color: Colors.green,
   ),
   Category(
@@ -43,17 +43,17 @@ import 'package:flutter/material.dart';
   ),
   Category(
     id: 'c8',
-    title: 'Asian',
+    title: 'Asiatica',
     color: Colors.lightGreen,
   ),
   Category(
     id: 'c9',
-    title: 'French',
+    title: 'Francesa',
     color: Colors.pink,
   ),
   Category(
     id: 'c10',
-    title: 'Summer',
+    title: 'Verão',
     color: Colors.teal,
   ),
 ];
